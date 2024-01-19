@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Sudhanshu Yadav
-- 👀 I’m interested in Programming and Problem-Solving.
-- 🌱 I’m currently pursuing my B.Tech in ECE at MMMUT Gorakhpur.
-- 💞️ I’m looking for Internship as well as Full-time opportunities.
+- 💞️ I’m interested in Programming and Problem-Solving.
+- 🌱 I’m currently working as R&D Developer at Dassault Systemes R&D Lab, Pune.
 - 📫 I’m passionate for learning new things.
+- 💞️ Pursued my B.Tech in ECE at MMMUT Gorakhpur.
+- 👀 I’m looking for Full-time opportunities.
 
 Favourite Quotes:
    "The only way to do great work is to love what you do." - Steve Jobs
